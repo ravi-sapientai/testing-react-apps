@@ -15,4 +15,4 @@ function Counter() {
   )
 }
 
-export default Counter
+export default Counter;
